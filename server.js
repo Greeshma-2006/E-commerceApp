@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
-import { product } from "./API/productApi.js";
 import { user } from "./API/userApi.js";
+import { product } from "./API/productApi.js";
 
 
 const app = express();

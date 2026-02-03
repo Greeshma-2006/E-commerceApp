@@ -62,7 +62,8 @@ Content-Type: application/json
 
 {
   "productId": "6981863379fcfd6aba271740",
-  "quantity": 1
+  "quantity": 1,
+  "productId":"698194312082eda5aa7f8e46"
 }
 
 ###read user by id 
